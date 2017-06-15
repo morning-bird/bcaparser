@@ -9,5 +9,6 @@
             "email": "renato.budiman07@gmail.com"
         }
     ],
+	"minimum-stability": "dev",
     "require": {}
 }
