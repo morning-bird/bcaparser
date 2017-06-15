@@ -3,9 +3,8 @@ Class ini berfungsi untuk login dan mengambil data daftar mutasi rekening di Kli
 Hasil modifikasi dari https://github.com/kadekjayak/bca-parser untuk keperluan pribadi
 
 ## Installation
-Download class nya, kemudian include di project php mu...
-	
-	require 'BCAParser.php';
+
+	$ php composer.phar require morning-bird/bcaparser "*"
 
 ##Requirements
 * PHP curl
