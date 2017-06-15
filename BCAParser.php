@@ -1,6 +1,6 @@
 <?php
 
-namespace bcaparser;
+namespace morningbird/bcaparser;
 
 /**
  * Handle login request on m.bca
