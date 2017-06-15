@@ -1,12 +1,12 @@
 {
-    "name": "kadekjayak/bca-parser",
+    "name": "morning-bird/bcaparser",
     "description": "Scrapper for KlikBCA",
     "type": "library",
     "license": "Apache",
     "authors": [
         {
-            "name": "kadekjayak",
-            "email": "kadekjayak@yahoo.co.id"
+            "name": "Renato",
+            "email": "renato.budiman07@gmail.com"
         }
     ],
     "require": {}
