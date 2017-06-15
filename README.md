@@ -1,5 +1,6 @@
 # KlikBCA Parser
 Class ini berfungsi untuk login dan mengambil data daftar mutasi rekening di KlikBCA (m.klikbca.com)
+Hasil modifikasi dari https://github.com/kadekjayak/bca-parser untuk keperluan pribadi
 
 ## Installation
 Download class nya, kemudian include di project php mu...
